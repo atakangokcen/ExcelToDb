@@ -105,44 +105,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="packages.config" />
-    <None Include="Properties\DataSources\Form1.datasource" />
-    <None Include="Properties\DataSources\Program.datasource" />
-    <None Include="Properties\DataSources\ShippingByWeight.datasource" />
-    <None Include="Properties\DataSources\ShippingByWeightByTotalRecord.datasource" />
-    <None Include="Properties\DataSources\WindowsFormsApp1.Properties.Resources.datasource" />
-    <None Include="Properties\DataSources\WindowsFormsApp1.Properties.Settings.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.AuditEntry.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.AuditEntryItem.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.BasicBulkOperation.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.BasicColumnMapping.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.BulkOperation.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.BulkOperationError.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.BulkOperationManager.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.BulkOperationReflection.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.ColumnMapping.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.ColumnMappingExtensions.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.CustomProvider.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.DbBulkOperationConcurrencyException.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.ExceptionMessage.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.InformationSchemaManager.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.Internal.Accessors.AccessorHelper.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.Internal.CoreExtensions.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.Internal.Data.SqlClient.Extension.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.Internal.Data.SqlClient.SqlCommandSet.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.Internal.InformationSchema.Column.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.Internal.InformationSchema.Table.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.Internal.Linq.Dynamic.DynamicClassZ.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.InternalOptions.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.LicenseManager.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.LogEntry.datasource" />
-    <None Include="Properties\DataSources\Z.BulkOperations.ResultInfo.datasource" />
-    <None Include="Properties\DataSources\Z.Dapper.Plus.BaseDapperPlusActionSet.datasource" />
-    <None Include="Properties\DataSources\Z.Dapper.Plus.DapperPlusAction.datasource" />
-    <None Include="Properties\DataSources\Z.Dapper.Plus.DapperPlusColumnMapping.datasource" />
-    <None Include="Properties\DataSources\Z.Dapper.Plus.DapperPlusContext.datasource" />
-    <None Include="Properties\DataSources\Z.Dapper.Plus.DapperPlusEntityMapper.datasource" />
-    <None Include="Properties\DataSources\Z.Dapper.Plus.DapperPlusExtensions.datasource" />
-    <None Include="Properties\DataSources\Z.Dapper.Plus.DapperPlusManager.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
